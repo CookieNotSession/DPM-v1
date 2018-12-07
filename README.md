@@ -1,7 +1,10 @@
 # DPM-v1
 
-Dynamic Portrait Museum: 故宮古畫表情變動系統 以 深度學習與影像處理增加古代人物畫像之互動性
+Dynamic Portrait Museum(故宮古畫表情變動系統)
 ---
+
+網址: https://cookiechou.nctu.me/Artmoji_V1/demos/entrance.html
+系統介紹: 以深度學習與影像處理增加古代人物畫像之互動性
 
 ## 系統首頁
 ![](https://i.imgur.com/z2wMLAh.jpg)
