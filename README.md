@@ -6,7 +6,7 @@ Dynamic Portrait Museum (故宮古畫表情變動系統)
 
 - 交大資管所周秉楠 碩士論文
 - 網址: https://cookiechou.nctu.me/Artmoji_V1/demos/entrance.html
-- 系統介紹: 以深度學習與影像處理增加古代人物畫像之互動性
+- 系統介紹: 以深度學習方式偵測使用者臉部最即時的表情狀況(微笑、左笑、右笑、驚訝、眨眼、眉毛變動等…)，並結合影像處理方法( PS Liquify Tool、Transparency )來增加古代人物畫像之互動性，希望藉以吸引更多年輕人到博物館欣賞畫作，目前系統規劃於期末交大故宮文創展覽展出。
 
 ## 系統首頁
 ![](https://i.imgur.com/z2wMLAh.jpg)
